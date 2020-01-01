@@ -1,0 +1,9 @@
+.idea
+.packages/
+.dart_tool/
+.pub/
+.atom/
+.vscode/
+build/
+
+web/lib/
