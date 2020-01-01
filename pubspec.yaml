@@ -1,7 +1,6 @@
 name: recase_string_extension
 version: 1.0.0
 description: Applies recase to String, as an extension.
-author: Keith Elliott <keith.b.elliott@gmail.com>
 homepage: https://github.com/techniboogie-dart/recase_string_extension
 environment:
   sdk: '>=2.6.0 <3.0.0'
